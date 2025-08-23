@@ -1,0 +1,5 @@
+/workspaces/lab-1-introducao-GiovannaFChin/exemplos
+/workspaces/lab-1-introducao-GiovannaFChin
+/workspaces/lab-1-introducao-GiovannaFChin/docs
+/workspaces/lab-1-introducao-GiovannaFChin/outputs
+/workspaces/lab-1-introducao-GiovannaFChin
